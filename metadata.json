@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard",
+  "description": "Real-Time Anti-Money Laundering (AML) & Transaction Fraud Graph Analyzer with interactive ledger tracing and AI forensic reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
